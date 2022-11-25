@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+body{
+    background: linear-gradient(to right, #fff,#B40404 );
+    background-size: 300% 400%;
+    font-size: 20px;}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;}
+
+.inicio{
+    position: relative;
+    text-align: center;
+    margin: 40px;
+    color: #8e0000;
+}
+
+.personagem{
+    position: relative;
+    text-align: center;
+    left: 15px;
+}
+
+.acessos{
+    position: relative;
+    text-align: center;
+    margin: 40px;
+    font-size: 30px;
+    color: #8e0000;
+}
+
+.espaco{
+    padding: 10px;
+}
+
+a{
+    color: #8e0000;   
+}
+
+a:hover{
+    font-size: 34px;
+}

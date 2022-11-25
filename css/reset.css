@@ -1,0 +1,35 @@
+
+
+a {
+    text-decoration: none;
+    color: 	#350003;
+}
+
+a:hover{
+    transition: 0.7s;
+    color: rgb(255, 0, 0);
+}
+
+.botaoinicio{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+@media (max-width: 870px){
+    .frase1{
+        font-size: 23px;
+    }
+    .frase2{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 365px){
+    .frase1{
+        font-size: 20px;
+    }
+    .frase2{
+        font-size: 15px;
+    }
+}
