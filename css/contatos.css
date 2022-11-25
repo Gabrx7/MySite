@@ -61,3 +61,10 @@ header{
         font-size: 15px;
     }
 }
+
+@media (max-width: 1330px){
+    .qrcodeimg{
+        width: 250px;
+        height: 250px;
+    }
+}
